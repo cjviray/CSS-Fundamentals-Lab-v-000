@@ -24,7 +24,7 @@ img {
     width: 800px;
 }
 
-#details {
-  
+#details div {
+  display: block;
 }
 
