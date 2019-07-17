@@ -24,7 +24,9 @@ img {
     width: 800px;
 }
 
-#figcaption 
+#figcaption {
+  text-align: center;
+}
 
 #details div {
   display: block;
