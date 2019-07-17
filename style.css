@@ -19,9 +19,13 @@ img {
     margin-right: auto;
 }
 
-section featured-property {
+#featured-property p {
   text-align: center;
   width: 800px;
+}
+
+#figcaption {
+  text-align: center;
 }
 
 #details div {
